@@ -9,5 +9,8 @@
       <li><a href="/services">Services</a></li>
       <li><a href="/posts">Blog</a></li>
     </ul>
+    <ul class="nav navbar-nav"> 
+      <li><a href="/posts/create">Create Post</a></li>
+    </ul>
   </div>
 </nav>
